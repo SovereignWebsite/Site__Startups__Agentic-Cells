@@ -245,14 +245,6 @@
    ]
   },
   {
-   "value": "$11.62",
-   "label": "for 17 recorded runs at API prices, which the company says is \"not the cost of the team\"",
-   "asof": "2026-11-17",
-   "s": [
-    18
-   ]
-  },
-  {
    "value": "0",
    "label": "cells sold: \"No cell of any size has been sold.\"",
    "asof": "2026-11-20",
@@ -436,22 +428,34 @@
    {
     "file": "img/real/cells.webp",
     "url": "https://agenticcells.ai/cells/",
-    "caption": "The four cell sizes on agenticcells.ai"
+    "caption": "The four cell sizes on agenticcells.ai",
+    "phone": "img/real/cells-phone.webp",
+    "phone_w": 760,
+    "phone_h": 460
    },
    {
     "file": "img/real/website-cell.webp",
     "url": "https://agenticcells.ai/website-cell/",
-    "caption": "The website cell page on agenticcells.ai"
+    "caption": "The website cell page on agenticcells.ai",
+    "phone": "img/real/website-cell-phone.webp",
+    "phone_w": 760,
+    "phone_h": 460
    },
    {
     "file": "img/real/hero.webp",
     "url": "https://agenticcells.ai/",
-    "caption": "A website like these, for you: the agenticcells.ai home page, with its \"see it, stop it\" card"
+    "caption": "A website like these, for you: the agenticcells.ai home page, with its \"see it, stop it\" card",
+    "phone": "img/real/hero-phone.webp",
+    "phone_w": 760,
+    "phone_h": 480
    },
    {
     "file": "img/real/partners.webp",
     "url": "https://agenticcells.ai/partners/",
-    "caption": "Partners: you bring the business, we build the site, on agenticcells.ai"
+    "caption": "Partners: you bring the business, we build the site, on agenticcells.ai",
+    "phone": "img/real/partners-phone.webp",
+    "phone_w": 760,
+    "phone_h": 460
    }
   ]
  },
@@ -622,5 +626,40 @@
    "blurb": "A newsroom feature, printable on A4",
    "engine": "newsroom"
   }
- ]
+ ],
+ "oneline": {
+  "t": "Small teams of AI agents you can see and stop",
+  "s": [
+   19
+  ]
+ },
+ "band": {
+  "title": "Ten days, then 24 minutes",
+  "nums": [
+   {
+    "n": "~250",
+    "l": "named agents during ten days at Web Summit",
+    "s": [
+     7
+    ],
+    "when": "reported 14 November 2026"
+   },
+   {
+    "n": "24 min",
+    "l": "from first commit to version 0.1.0 live, on day one",
+    "s": [
+     8
+    ],
+    "when": "15 November 2026"
+   },
+   {
+    "n": "87 s",
+    "l": "from merge to a live HTTPS site, the first factory run",
+    "s": [
+     9
+    ],
+    "when": "16 November 2026"
+   }
+  ]
+ }
 }
