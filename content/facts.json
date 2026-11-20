@@ -229,22 +229,6 @@
  ],
  "figures": [
   {
-   "value": "24 min",
-   "label": "from first commit to version 0.1.0 live, on day one",
-   "asof": "2026-11-15",
-   "s": [
-    8
-   ]
-  },
-  {
-   "value": "87 s",
-   "label": "from merge to a live HTTPS site, the first factory run",
-   "asof": "2026-11-16",
-   "s": [
-    9
-   ]
-  },
-  {
    "value": "0",
    "label": "cells sold: \"No cell of any size has been sold.\"",
    "asof": "2026-11-20",
