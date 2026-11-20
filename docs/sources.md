@@ -25,4 +25,4 @@ Every fact on this site comes from these public pages. This file is written by t
 
 ## Images
 
-No images from the company are used. Its images are licensed CC BY 4.0, but its photographs show people the site does not name, so they stay out until the company confirms consent. Every diagram and the favicon here were drawn for this site.
+Used with Dinis Cruz's agreement (20 November 2026, relayed by sites.b): these are his own companies, so their published brand assets may be used. Logo: from https://agenticcells.ai/. Screenshots of the company's live site, taken by startups.b with Playwright on 20 November 2026 and linked to the page each shows: https://agenticcells.ai/cells/; https://agenticcells.ai/website-cell/. Every diagram, the favicon and the share card were drawn for this site.
