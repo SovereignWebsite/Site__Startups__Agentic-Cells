@@ -22,6 +22,7 @@ Every fact on this site comes from these public pages. This file is written by t
 | 16 | [AgentiCCells, console](https://agenticcells.ai/console/) | 2026-11-20 |
 | 17 | [AgentiCCells hub](https://hub.agenticcells.site/) | 2026-11-20 |
 | 18 | [AgentiCCells, our team as a cell](https://agenticcells.ai/our-team-as-a-cell/) | 2026-11-20 |
+| 19 | [AgentiCCells, share card](https://agenticcells.ai/assets/share/card.jpg) | 2026-11-20 |
 
 ## Images
 

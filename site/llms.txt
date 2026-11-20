@@ -28,11 +28,11 @@ An independent brochure about AgentiCCells, made from its own public pages. Offi
 
 ## Pages
 
-- [The Brochure](https://agentic-cells.startups.sovereignweb.site/designs/brochure.html): The company at a glance, with diagrams
-- [The Blueprint](https://agentic-cells.startups.sovereignweb.site/designs/blueprint.html): A dark technical spec sheet
-- [The Story](https://agentic-cells.startups.sovereignweb.site/index.html): Told in order, date by date
-- [The Newsroom](https://agentic-cells.startups.sovereignweb.site/designs/newsroom.html): A magazine feature about the company
-- [The Brief](https://agentic-cells.startups.sovereignweb.site/designs/brief.html): Plain and printable on A4
+- [The Cell](https://agentic-cells.startups.sovereignweb.site/index.html): One cell drawn, with a Stop you can press
+- [Web Summit to live site](https://agentic-cells.startups.sovereignweb.site/designs/web-summit.html): From the conference floor to a live site in days
+- [Identity: AgentiCCells](https://agentic-cells.startups.sovereignweb.site/designs/agenticcells.html): Magenta, off-white, the cell mark and its Stop card
+- [Identity: the share card](https://agentic-cells.startups.sovereignweb.site/designs/share-card.html): Its deep-teal share card, with the partner path
+- [The Newsroom](https://agentic-cells.startups.sovereignweb.site/designs/newsroom.html): A newsroom feature, printable on A4
 
 ## Sources
 
@@ -54,3 +54,4 @@ An independent brochure about AgentiCCells, made from its own public pages. Offi
 - AgentiCCells, console: https://agenticcells.ai/console/ (read 2026-11-20)
 - AgentiCCells hub: https://hub.agenticcells.site/ (read 2026-11-20)
 - AgentiCCells, our team as a cell: https://agenticcells.ai/our-team-as-a-cell/ (read 2026-11-20)
+- AgentiCCells, share card: https://agenticcells.ai/assets/share/card.jpg (read 2026-11-20)

@@ -8,7 +8,7 @@
  "url_label": "agenticcells.ai",
  "repo": "https://github.com/SovereignWebsite/Site__Startups__Agentic-Cells",
  "updated": "2026-11-20",
- "home": "story",
+ "home": "cell",
  "description": "An independent brochure about AgentiCCells, which builds small teams of AI agents, called cells, that work in your own accounts, made from its own public pages.",
  "headline": "A small team of AI agents, in your own accounts",
  "lede": "AgentiCCells builds cells: small teams of AI agents, each team with one job, working in the customer's own accounts and repositories, with a page where you can watch them and stop them.",
@@ -420,6 +420,12 @@
    "title": "AgentiCCells, our team as a cell",
    "url": "https://agenticcells.ai/our-team-as-a-cell/",
    "accessed": "2026-11-20"
+  },
+  {
+   "id": 19,
+   "title": "AgentiCCells, share card",
+   "url": "https://agenticcells.ai/assets/share/card.jpg",
+   "accessed": "2026-11-20"
   }
  ],
  "identity": {
@@ -436,7 +442,185 @@
     "file": "img/real/website-cell.webp",
     "url": "https://agenticcells.ai/website-cell/",
     "caption": "The website cell page on agenticcells.ai"
+   },
+   {
+    "file": "img/real/hero.webp",
+    "url": "https://agenticcells.ai/",
+    "caption": "A website like these, for you: the agenticcells.ai home page, with its \"see it, stop it\" card"
+   },
+   {
+    "file": "img/real/partners.webp",
+    "url": "https://agenticcells.ai/partners/",
+    "caption": "Partners: you bring the business, we build the site, on agenticcells.ai"
    }
   ]
- }
+ },
+ "next": [
+  {
+   "label": "A website like these, for you",
+   "url": "https://agenticcells.ai/website-cell/"
+  },
+  {
+   "label": "Partners: you bring the business",
+   "url": "https://agenticcells.ai/partners/"
+  }
+ ],
+ "designs": [
+  {
+   "key": "cell",
+   "name": "The Cell",
+   "blurb": "One cell drawn, with a Stop you can press",
+   "engine": "cell",
+   "cfg": {
+    "h1": "One cell. <em>One job.</em> Your stop button.",
+    "stopline": "You: see it, stop it",
+    "halted": "Stopped. In AgentiCCells' method, a stop file (board/HOLD.md) halts the team.",
+    "caption": "Drawn for this site from AgentiCCells' method: one job per agent, a conductor, and a stop file. Press Stop to see the cell halt."
+   }
+  },
+  {
+   "key": "web-summit",
+   "name": "Web Summit to live site",
+   "blurb": "From the conference floor to a live site in days",
+   "engine": "badge",
+   "cfg": {
+    "badge_event": "Web Summit, Lisbon, November 2026",
+    "badge_line": "six people, around 250 agents",
+    "badge_tier": "Stand A1-30",
+    "h1": "From Web Summit <em>to a live site.</em>",
+    "sub": "Ten days at Web Summit, then a company started on 15 November 2026 and live 24 minutes after its repository was created.",
+    "stats": [
+     {
+      "n": "~250",
+      "l": "named agents during ten days at Web Summit",
+      "s": [
+       7
+      ]
+     },
+     {
+      "n": "24 min",
+      "l": "from first commit to version 0.1.0 live",
+      "s": [
+       8
+      ]
+     },
+     {
+      "n": "87 s",
+      "l": "from merge to a live HTTPS site, the first factory run",
+      "s": [
+       9
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "key": "agenticcells",
+   "name": "Identity: AgentiCCells",
+   "blurb": "Magenta, off-white, the cell mark and its Stop card",
+   "engine": "identity",
+   "cfg": {
+    "palette": {
+     "light": {
+      "bg": "#f8f5f1",
+      "card": "#ffffff",
+      "fg": "#17141a",
+      "muted": "#4f4a55",
+      "line": "#e4ddd6",
+      "link": "#a8205a",
+      "acc": "#a8205a",
+      "acc-ink": "#fff",
+      "herobg": "#14101a",
+      "heroink": "#f2eef4",
+      "heroacc": "#f0a7c4",
+      "heroacc-ink": "#14101a"
+     },
+     "dark": {
+      "bg": "#141116",
+      "card": "#1e1a21",
+      "fg": "#f2eef4",
+      "muted": "#b9b0bd",
+      "line": "#342d38",
+      "link": "#f0a7c4",
+      "acc": "#f0a7c4",
+      "acc-ink": "#14101a",
+      "herobg": "#0c090f",
+      "heroink": "#f2eef4",
+      "heroacc": "#f0a7c4",
+      "heroacc-ink": "#14101a"
+     }
+    },
+    "h1_font": "900 clamp(2.6rem,7vw,4.8rem)/1 system-ui,sans-serif",
+    "h1": "A website like these, for you",
+    "h1_s": [
+     1
+    ],
+    "sub": "\"An agent team builds your website. You give us photos, videos and a short description, and some of it can already be public.\"",
+    "stopcard": "You: see it, stop it",
+    "hero": "shot",
+    "shot": 2,
+    "strip_below": [
+     0,
+     1
+    ],
+    "strip_title": "More of agenticcells.ai"
+   }
+  },
+  {
+   "key": "share-card",
+   "name": "Identity: the share card",
+   "blurb": "Its deep-teal share card, with the partner path",
+   "engine": "identity",
+   "cfg": {
+    "palette": {
+     "light": {
+      "bg": "#f8f5f1",
+      "card": "#ffffff",
+      "fg": "#17141a",
+      "muted": "#4f4a55",
+      "line": "#e4ddd6",
+      "link": "#a8205a",
+      "acc": "#a8205a",
+      "acc-ink": "#fff",
+      "herobg": "linear-gradient(135deg,#0f5a63,#0a3d44)",
+      "heroink": "#f2eef4",
+      "heroacc": "#ffffff",
+      "heroacc-ink": "#0a3d44"
+     },
+     "dark": {
+      "bg": "#141116",
+      "card": "#1e1a21",
+      "fg": "#f2eef4",
+      "muted": "#b9b0bd",
+      "line": "#342d38",
+      "link": "#f0a7c4",
+      "acc": "#f0a7c4",
+      "acc-ink": "#14101a",
+      "herobg": "linear-gradient(135deg,#0a434b,#062a2f)",
+      "heroink": "#f2eef4",
+      "heroacc": "#ffffff",
+      "heroacc-ink": "#0a3d44"
+     }
+    },
+    "h1_font": "800 clamp(2.4rem,6.5vw,4.4rem)/1.04 system-ui,sans-serif",
+    "h1": "Small teams of AI agents you can see and stop",
+    "h1_s": [
+     19
+    ],
+    "sub": "The line from AgentiCCells' own share card. For partners: \"you bring the business, we build the site.\"",
+    "hero": "sharecard",
+    "share_line": "Small teams of AI agents you can see and stop",
+    "strip_below": [
+     3
+    ],
+    "strip_title": "The partner programme, on agenticcells.ai"
+   }
+  },
+  {
+   "key": "newsroom",
+   "name": "The Newsroom",
+   "blurb": "A newsroom feature, printable on A4",
+   "engine": "newsroom"
+  }
+ ]
 }
