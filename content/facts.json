@@ -1,0 +1,98 @@
+{
+  "slug": "agentic-cells",
+  "name": "AgentiCCells",
+  "mark": "A",
+  "kicker": "Small teams of AI agents that do one job for you",
+  "domain": "agentic-cells.startups.sovereignweb.site",
+  "url": "https://agenticcells.ai/",
+  "url_label": "agenticcells.ai",
+  "repo": "https://github.com/SovereignWebsite/Site__Startups__Agentic-Cells",
+  "updated": "2026-11-20",
+  "home": "story",
+  "description": "An independent brochure about AgentiCCells, which builds small teams of AI agents, called cells, that work in your own accounts, made from its own public pages.",
+  "headline": "A small team of AI agents, in your own accounts",
+  "lede": "AgentiCCells builds cells: small teams of AI agents, each team with one job, working in the customer's own accounts and repositories, with a page where you can watch them and stop them.",
+  "quote": {"q": "AgentiCCells builds small teams of AI agents, called cells, that do one job for you in your own accounts, with a page where you can watch them and stop them.", "who": "AgentiCCells, about itself", "s": [1]},
+  "what": [
+    {"t": "A cell is a small team of AI agents with one job. It runs in your environment, meaning your own accounts and repositories, with a conductor agent that hands out work and keeps the record, and keys that you hold to steer it and take it over.", "s": [1]},
+    {"t": "The first offer is the website cell: an agent team builds a public static website from your photos, videos and description, and hands it over in a GitHub repository you own.", "s": [2]},
+    {"t": "What it sells is \"the setup, the guidance and the trust\"; the software itself is free and open. The name is always plural, and the \"CC\" stands for Creative Commons.", "s": [3, 4]},
+    {"t": "**Status, as the company states it:** \"No cell of any size has been sold.\" Every larger price is labelled a first proposal.", "s": [5, 6]}
+  ],
+  "story": [
+    {"t": "AgentiCCells grew out of a team that had just run around 250 named agents at Web Summit in Lisbon, about 20,000 commits across 15 repositories, a count the company says \"depends on how you count\".", "s": [7]},
+    {"t": "It started on 15 November 2026. Its website repository was created at 16:18 UTC that day, and version 0.1.0 was live 24 minutes later, at 16:42. By evening the site had moved to agenticcells.ai.", "s": [4, 8]},
+    {"t": "The next day, 16 November, the site factory worked: a request in a commit became a live site over HTTPS 87 seconds after the merge. The same day the company set its four-step price ladder.", "s": [9, 10]},
+    {"t": "On 17 November it opened a partner programme, with each sale split 50/50 between the partner who brings the customer and the cell that builds.", "s": [11, 12]},
+    {"t": "Every page ends with what it does not claim. Its own limits are stated plainly: \"today the limits on our agents are mostly rules, not walls.\"", "s": [13]}
+  ],
+  "for_whom": [
+    {"t": "\"Teams that want AI agents doing real work, inside their own accounts and repositories, and want to see and stop what those agents do.\"", "s": [1]},
+    {"t": "For the website cell: artists, musicians, AI people and technologists, consultants and companies.", "s": [2]},
+    {"t": "Partners: freelancers, small consultancies and larger firms who bring customers.", "s": [12]},
+    {"t": "Not for anyone who wants a hosted service that keeps their data.", "s": [1]}
+  ],
+  "how": [
+    {"title": "A brief per agent", "t": "Each agent gets one job, one name and its own key pair; only the public half is published.", "s": [14]},
+    {"title": "A board of files", "t": "Work is a folder of markdown files; agents talk through files, commit messages and encrypted sgit vault lanes.", "s": [14]},
+    {"title": "Gated releases", "t": "Nothing ships without the checks: a validator, a leak scan and a wording check.", "s": [14, 13]},
+    {"title": "A stop file", "t": "Anyone can halt the team with board/HOLD.md, and everything is logged.", "s": [14, 13]},
+    {"title": "Hand it over", "t": "The work ends in your repository, with its full history, to run on any static host.", "s": [2, 15]}
+  ],
+  "products": [
+    {"name": "Website cell", "short": "Website", "url": "https://agenticcells.ai/website-cell/", "t": "A static site from your photos, videos and description, in your own GitHub. The page shows a £250 launch price, usually £500, which it says may change; nothing has been sold yet.", "s": [2]},
+    {"name": "Cell sizes", "short": "Sizes", "url": "https://agenticcells.ai/cells/", "t": "One agent, a few sessions, a team, or a network of conductors: £500, £1,500, £5,000 and £20,000, all labelled first proposal.", "s": [6]},
+    {"name": "The console", "short": "Console", "url": "https://agenticcells.ai/console/", "t": "A read-only view of the board, agents, keys and activity, built for its own team.", "s": [16]},
+    {"name": "The hub", "short": "Hub", "url": "https://hub.agenticcells.site/", "t": "Lists every cell made: \"We list; we do not sell.\"", "s": [17]},
+    {"name": "Partner programme", "short": "Partners", "url": "https://agenticcells.ai/partners/", "t": "Freelancers, consultancies and firms sell; the sale is split 50/50. No partner has signed yet.", "s": [12]}
+  ],
+  "timeline": [
+    {"date": "2026-11-14", "label": "\"Ten days at Web Summit\": six people and around 250 agents.", "s": [7]},
+    {"date": "2026-11-15", "label": "AgentiCCells starts; v0.1.0 is live 24 minutes after the repository is created.", "s": [4, 8]},
+    {"date": "2026-11-16", "label": "The site factory works: request to live HTTPS site in 87 seconds. The price ladder is set.", "s": [9, 10]},
+    {"date": "2026-11-17", "label": "The partner programme: \"Partners sell, we build\".", "s": [11]}
+  ],
+  "figures": [
+    {"value": "24 min", "label": "from first commit to version 0.1.0 live, on day one", "asof": "2026-11-15", "s": [8]},
+    {"value": "87 s", "label": "from merge to a live HTTPS site, the first factory run", "asof": "2026-11-16", "s": [9]},
+    {"value": "$11.62", "label": "for 17 recorded runs at API prices, which the company says is \"not the cost of the team\"", "asof": "2026-11-17", "s": [18]},
+    {"value": "0", "label": "cells sold: \"No cell of any size has been sold.\"", "asof": "2026-11-20", "s": [5]}
+  ],
+  "chart": {
+    "title": "The proposed ladder of cell sizes, in pounds",
+    "note": "As published on the cells page; every step is labelled a first proposal, not an offer.",
+    "s": [6],
+    "bars": [{"label": "One agent", "value": 500}, {"label": "A few sessions", "value": 1500}, {"label": "A team", "value": 5000}, {"label": "A network", "value": 20000}]
+  },
+  "people": [
+    {"name": "Dinis Cruz", "role": "who started AgentiCCells and writes its newsroom articles", "s": [4, 10]}
+  ],
+  "visit": "Every page on the company's site says what it does not claim, and the hub lists every cell made so far.",
+  "newsroom": {
+    "kicker": "Startup profile",
+    "headline": "A company started by a team of agents in an afternoon",
+    "standfirst": "AgentiCCells went from first commit to a live site in 24 minutes. It builds small teams of AI agents that work in your own accounts and stop when you say so."
+  },
+  "brand": {"accent": "#0a5c6b", "accent_dark": "#6ec6d6", "soft": "#e2eff1", "soft_dark": "#10262b"},
+  "images_note": "No images from the company are used. Its images are licensed CC BY 4.0, but its photographs show people the site does not name, so they stay out until the company confirms consent. Every diagram and the favicon here were drawn for this site.",
+  "sources": [
+    {"id": 1, "title": "AgentiCCells, home page", "url": "https://agenticcells.ai/", "accessed": "2026-11-20"},
+    {"id": 2, "title": "AgentiCCells, website cell", "url": "https://agenticcells.ai/website-cell/", "accessed": "2026-11-20"},
+    {"id": 3, "title": "AgentiCCells, open source", "url": "https://agenticcells.ai/open-source/", "accessed": "2026-11-20"},
+    {"id": 4, "title": "AgentiCCells, about", "url": "https://agenticcells.ai/about/", "accessed": "2026-11-20"},
+    {"id": 5, "title": "AgentiCCells, FAQ", "url": "https://agenticcells.ai/faq/", "accessed": "2026-11-20"},
+    {"id": 6, "title": "AgentiCCells, cells", "url": "https://agenticcells.ai/cells/", "accessed": "2026-11-20"},
+    {"id": 7, "title": "SGit Newsroom, Ten days at Web Summit", "url": "https://newsroom.sgit.ai/articles/ten-days-at-web-summit.html", "accessed": "2026-11-20"},
+    {"id": 8, "title": "AgentiCCells, day one case study", "url": "https://github.com/AgentiCCells/AgentiCCells__Website/blob/dev/case-study/2026-11-15-day-one.md", "accessed": "2026-11-20"},
+    {"id": 9, "title": "SGit Newsroom, The site factory works", "url": "https://newsroom.sgit.ai/articles/the-site-factory-works.html", "accessed": "2026-11-20"},
+    {"id": 10, "title": "SGit Newsroom, The intersection", "url": "https://newsroom.sgit.ai/articles/the-intersection.html", "accessed": "2026-11-20"},
+    {"id": 11, "title": "SGit Newsroom, Partners sell, we build", "url": "https://newsroom.sgit.ai/articles/partners-sell-we-build.html", "accessed": "2026-11-20"},
+    {"id": 12, "title": "AgentiCCells, partners", "url": "https://agenticcells.ai/partners/", "accessed": "2026-11-20"},
+    {"id": 13, "title": "AgentiCCells, trust", "url": "https://agenticcells.ai/trust/", "accessed": "2026-11-20"},
+    {"id": 14, "title": "AgentiCCells, method", "url": "https://agenticcells.ai/method/", "accessed": "2026-11-20"},
+    {"id": 15, "title": "AgentiCCells, deploy", "url": "https://agenticcells.ai/deploy/", "accessed": "2026-11-20"},
+    {"id": 16, "title": "AgentiCCells, console", "url": "https://agenticcells.ai/console/", "accessed": "2026-11-20"},
+    {"id": 17, "title": "AgentiCCells hub", "url": "https://hub.agenticcells.site/", "accessed": "2026-11-20"},
+    {"id": 18, "title": "AgentiCCells, our team as a cell", "url": "https://agenticcells.ai/our-team-as-a-cell/", "accessed": "2026-11-20"}
+  ]
+}

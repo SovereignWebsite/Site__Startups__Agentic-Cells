@@ -1,6 +1,6 @@
 # AgentiCCells
 
-> A brochure for AgentiCCells, with links to its own site.
+> An independent brochure about AgentiCCells, which builds small teams of AI agents, called cells, that work in your own accounts, made from its own public pages.
 
 This file is for AI agents and the people using them. The site is https://agentic-cells.startups.sovereignweb.site/, static files in the public repository https://github.com/SovereignWebsite/Site__Startups__Agentic-Cells (served from site/ on the dev branch). Pick the section that matches who you are acting for, read it in full, then follow it.
 
@@ -23,3 +23,34 @@ This file is for AI agents and the people using them. The site is https://agenti
 - Start here (for the owner): https://agentic-cells.startups.sovereignweb.site/start/
 - How this site was made: https://agentic-cells.startups.sovereignweb.site/admin/
 - The agents that work on this site: https://agentic-cells.startups.sovereignweb.site/data/agents.json
+
+An independent brochure about AgentiCCells, made from its own public pages. Official site: https://agenticcells.ai/
+
+## Pages
+
+- [The Brochure](https://agentic-cells.startups.sovereignweb.site/designs/brochure.html): The company at a glance, with diagrams
+- [The Blueprint](https://agentic-cells.startups.sovereignweb.site/designs/blueprint.html): A dark technical spec sheet
+- [The Story](https://agentic-cells.startups.sovereignweb.site/index.html): Told in order, date by date
+- [The Newsroom](https://agentic-cells.startups.sovereignweb.site/designs/newsroom.html): A magazine feature about the company
+- [The Brief](https://agentic-cells.startups.sovereignweb.site/designs/brief.html): Plain and printable on A4
+
+## Sources
+
+- AgentiCCells, home page: https://agenticcells.ai/ (read 2026-11-20)
+- AgentiCCells, website cell: https://agenticcells.ai/website-cell/ (read 2026-11-20)
+- AgentiCCells, open source: https://agenticcells.ai/open-source/ (read 2026-11-20)
+- AgentiCCells, about: https://agenticcells.ai/about/ (read 2026-11-20)
+- AgentiCCells, FAQ: https://agenticcells.ai/faq/ (read 2026-11-20)
+- AgentiCCells, cells: https://agenticcells.ai/cells/ (read 2026-11-20)
+- SGit Newsroom, Ten days at Web Summit: https://newsroom.sgit.ai/articles/ten-days-at-web-summit.html (read 2026-11-20)
+- AgentiCCells, day one case study: https://github.com/AgentiCCells/AgentiCCells__Website/blob/dev/case-study/2026-11-15-day-one.md (read 2026-11-20)
+- SGit Newsroom, The site factory works: https://newsroom.sgit.ai/articles/the-site-factory-works.html (read 2026-11-20)
+- SGit Newsroom, The intersection: https://newsroom.sgit.ai/articles/the-intersection.html (read 2026-11-20)
+- SGit Newsroom, Partners sell, we build: https://newsroom.sgit.ai/articles/partners-sell-we-build.html (read 2026-11-20)
+- AgentiCCells, partners: https://agenticcells.ai/partners/ (read 2026-11-20)
+- AgentiCCells, trust: https://agenticcells.ai/trust/ (read 2026-11-20)
+- AgentiCCells, method: https://agenticcells.ai/method/ (read 2026-11-20)
+- AgentiCCells, deploy: https://agenticcells.ai/deploy/ (read 2026-11-20)
+- AgentiCCells, console: https://agenticcells.ai/console/ (read 2026-11-20)
+- AgentiCCells hub: https://hub.agenticcells.site/ (read 2026-11-20)
+- AgentiCCells, our team as a cell: https://agenticcells.ai/our-team-as-a-cell/ (read 2026-11-20)
