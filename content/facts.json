@@ -670,6 +670,7 @@
     ],
     "when": "16 November 2026"
    }
-  ]
+  ],
+  "merge_figures": true
  }
 }
