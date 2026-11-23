@@ -451,6 +451,16 @@
     "phone_h": 940,
     "taken": "2026-11-23",
     "phone_taken": "2026-11-23"
+   },
+   {
+    "file": "img/real/commits.webp",
+    "url": "https://github.com/AgentiCCells/AgentiCCells__Website/commits/dev",
+    "caption": "A cell at work: the commits its agents made to the AgentiCCells website repository on 21 November 2026, on GitHub",
+    "phone": "img/real/commits-phone.webp",
+    "phone_w": 780,
+    "phone_h": 940,
+    "taken": "2026-11-23",
+    "phone_taken": "2026-11-23"
    }
   ]
  },
@@ -475,8 +485,11 @@
     "stopline": "You: see it, stop it",
     "halted": "Stopped. In AgentiCCells' method, a stop file (board/HOLD.md) halts the team.",
     "caption": "Drawn for this site from AgentiCCells' method: one job per agent, a conductor, and a stop file. Press Stop to see the cell halt.",
-    "shot": 4,
-    "shot_title": "A website like these"
+    "shot": [
+     5,
+     4
+    ],
+    "shot_title": "A cell at work, and a website like these"
    }
   },
   {
