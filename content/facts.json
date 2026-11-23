@@ -486,10 +486,10 @@
     "halted": "Stopped. In AgentiCCells' method, a stop file (board/HOLD.md) halts the team.",
     "caption": "Drawn for this site from AgentiCCells' method: one job per agent, a conductor, and a stop file. Press Stop to see the cell halt.",
     "shot": [
-     5,
-     4
+     4,
+     5
     ],
-    "shot_title": "A cell at work, and a website like these"
+    "shot_title": "A website like these, and a cell at work"
    }
   },
   {
