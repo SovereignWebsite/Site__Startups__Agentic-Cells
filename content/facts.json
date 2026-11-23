@@ -441,6 +441,16 @@
     "phone": "img/real/partners-phone.webp",
     "phone_w": 760,
     "phone_h": 460
+   },
+   {
+    "file": "img/real/orange.webp",
+    "url": "https://algarve-orange-grower.agenticcells.site/",
+    "caption": "Quinta do Sol Laranja, one of the sites the website cell page shows under \"A website like these\". It says itself that the farm, the prices and the orders are invented",
+    "phone": "img/real/orange-phone.webp",
+    "phone_w": 780,
+    "phone_h": 940,
+    "taken": "2026-11-23",
+    "phone_taken": "2026-11-23"
    }
   ]
  },
@@ -464,7 +474,9 @@
     "h1": "One cell. <em>One job.</em> Your stop button.",
     "stopline": "You: see it, stop it",
     "halted": "Stopped. In AgentiCCells' method, a stop file (board/HOLD.md) halts the team.",
-    "caption": "Drawn for this site from AgentiCCells' method: one job per agent, a conductor, and a stop file. Press Stop to see the cell halt."
+    "caption": "Drawn for this site from AgentiCCells' method: one job per agent, a conductor, and a stop file. Press Stop to see the cell halt.",
+    "shot": 4,
+    "shot_title": "A website like these"
    }
   },
   {
